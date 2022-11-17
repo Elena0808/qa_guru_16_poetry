@@ -9,6 +9,7 @@ packages = [{include = "qa_guru_16_poetry_new"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 pytest = "^7.2.0"
+selene = "^2.0.0b14"
 
 
 [tool.poetry.group.dev.dependencies]
